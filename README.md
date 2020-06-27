@@ -4,7 +4,7 @@
 
 Clone design do twitter para outros projetos parecidos.
 
-Esse desenvolvimento foi usado as seguintes linguagens HTML5, CSS3.
+Esse desenvolvimento foi usado as seguintes linguagens: HTML5, CSS3.
 
 ## Getting Started
 
